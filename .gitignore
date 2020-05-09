@@ -1,0 +1,7 @@
+# .gitignore file
+
+*.tmp
+*.psd
+*.b*
+*.s*
+WIP/
