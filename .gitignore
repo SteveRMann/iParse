@@ -1,5 +1,6 @@
 # .gitignore file
 
+git.txt
 *.tmp
 *.psd
 *.b*
